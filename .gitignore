@@ -12,8 +12,6 @@ dist
 dist-ssr
 *.local
 
-backend/src
-
 
 # Editor directories and files
 .vscode/*
