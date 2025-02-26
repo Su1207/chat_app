@@ -4,7 +4,7 @@
 
 VibeConnect is a cutting-edge real-time chat application designed to keep you connected with your network effortlessly. Built on a robust tech stack, it offers a smooth and secure messaging experience, complete with live user status updates and a dynamic theme-based interface.
 
-![image](https://github.com/user-attachments/assets/7bdb1a25-212c-4516-8f34-86199159c371)
+![Screenshot 2025-02-17 010613](https://github.com/user-attachments/assets/8376b301-4311-4557-ba46-bb8e46f44f94)
 
 ## 🚀 Key Features
 
